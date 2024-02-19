@@ -23,5 +23,8 @@
     "transform": {
       "^.+\\.jsx?$": "babel-jest"
     }
+  },
+  "dependencies": {
+    "expect": "^29.7.0"
   }
 }
